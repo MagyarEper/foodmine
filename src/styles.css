@@ -3,6 +3,7 @@
 
 * {
   box-sizing: border-box;
+
 }
 
 html {
@@ -15,7 +16,8 @@ body {
   font-size: 18px;
 }
 
-a {
+a, a:visited {
+  color: black;
   text-decoration: none;
 }
 
